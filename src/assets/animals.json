@@ -1,24 +1,30 @@
-[
+[{
+    "name": "Bornean Orangutan",
+    "Scientific": "Pongo pygmaeus",
+    "status": "Critically Endangered",
+    "Range": "Borneo",
+    "photo": "assets/Black_Rhino_280_xs.png"
+},
   {
-    "name": "Amur Leopard",
+    "name": "5",
     "Scientific": "Panthera pardus orientalis",
     "status": "Critically Endangered",
     "Range": "Southeastern Russia and Northern China",
-    "photo": "assets/Amur_Leopard_Pittsburgh_Zoo_600.jpg 600w \n, assets/Amur_Leopard_Pittsburgh_ZooOriginal_1098.jpg 900w, \n, assets/Amur_Leopard_Pittsburgh_ZooOriginal_1290.jpg 1290w, \nAmur_Leopard_Pittsburgh_ZooOriginal_1912.jpg 1912w,\n  src=\"Amur_Leopard_Pittsburgh_ZooOriginal.jpg"
+    "photo": "assets/Black_Rhino_280_xs.png"
   },
   {
     "name": "Black Rhino",
     "Scientific": "Diceros bicornis",
     "status": "Critcally Endangered",
     "Range": "Eastern and Southern Africa",
-    "photo": "assets/Black_Rhino.png"
+    "photo": "assets/Black_Rhino_280_xs.png"
   },
   {
     "name": "Bornean Orangutan",
     "Scientific": "Pongo pygmaeus",
     "status": "Critically Endangered",
     "Range": "Borneo",
-    "photo": "assets/Bornean_orangutan__Pongo_pygmaeus__Tanjung_Putting_National_Park_03_Original_vmrkxh.jpg 600w \n, assets/Bornean_orangutan__Pongo_pygmaeus__Tanjung_Putting_National_Park_03_Original_vmrkxh_949.jpg 949w \n"
+    "photo": "assets/Black_Rhino_280_xs.png"
   },
   {
     "name": "Cross River Gorilla",
