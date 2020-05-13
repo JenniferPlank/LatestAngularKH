@@ -16,18 +16,34 @@
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
   #sidenav {
-  display: none;
+    display: none;
   }
+  body#beep {
+    background-color: yellow;
+  }
+
 }
 
 /* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {  }
+@media (min-width: 768px) {
+  body#beep {
+    background-color: lime;
+  }
+}
 
 /* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {  }
+@media (min-width: 992px) {
+  body#beep {
+    background-color: purple;
+  }
+}
 
 /* Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {  }
+@media (min-width: 1200px) {
+  body#beep {
+    background-color: red;
+  }
+}
 
 
 
@@ -200,4 +216,6 @@ mat-menu {
 .menu-overflow-hidden {
 
 }
+
+
 

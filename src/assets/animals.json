@@ -1,134 +1,145 @@
 [{
-    "name": "Bornean Orangutan",
-    "Scientific": "Pongo pygmaeus",
-    "status": "Critically Endangered",
-    "Range": "Borneo",
-    "photo": "assets/Black_Rhino_280_xs.png"
-},
-  {
-    "name": "5",
-    "Scientific": "Panthera pardus orientalis",
-    "status": "Critically Endangered",
-    "Range": "Southeastern Russia and Northern China",
-    "photo": "assets/Black_Rhino_280_xs.png"
+  "name": "Amur Leopard",
+  "Scientific": "Panthera pardus orientalis",
+  "Status": "Critically Endangered",
+  "Range": "Southeastern Russia and Northern China",
+  "photo": "assets/AmurLeopard-250px.png",
+  "alt": "The Amur leopard is a subspecies native to the Primorye region of southeastern Russia and northern China."
   },
   {
     "name": "Black Rhino",
     "Scientific": "Diceros bicornis",
-    "status": "Critcally Endangered",
+    "Status": "Critcally Endangered",
     "Range": "Eastern and Southern Africa",
-    "photo": "assets/Black_Rhino_280_xs.png"
+    "photo": "assets/Black_Rhino_250_xs.png",
+    "alt": "The black rhinoceros or hook-lipped rhinoceros is a species of rhinoceros, native to eastern and southern Africa."
   },
   {
     "name": "Bornean Orangutan",
     "Scientific": "Pongo pygmaeus",
     "status": "Critically Endangered",
     "Range": "Borneo",
-    "photo": "assets/Black_Rhino_280_xs.png"
+    "photo": "assets/Bornean_Orangutan_250_xs.png",
+    "alt": "The Bornean orangutan is a critically endangered species, with deforestation, palm oil plantations, and hunting posing a serious threat to its continued existence."
   },
   {
     "name": "Cross River Gorilla",
     "Scientific": "Gorilla gorilla diehli",
     "status": "Critically Endangered",
     "Range": "Forested hills and mountains of the Cameroon-Nigeria border region",
-    "photo": "assets/Cross-river-gorilla.png"
+    "photo": "assets/Cross-river-gorilla.png",
+    "alt": "Cross River gorillas are scattered across the lowland forests and rainforests of Cameroon and Nigeria,"
   },
   {
-    "name": "Lowland Gorilla",
+    "name": "Eastern Lowland Gorilla",
     "Scientific": "Gorilla beringei graueri",
     "status": "Critically Endangered",
     "Range": "Mountainous forests of Nigeria and Cameroon",
-    "photo": "assets/Eastern_Lowland_Gorilla_ZOO_Antwerp.png"
+    "photo": "assets/Zippy_Eastern_lowland_gorilla.png",
+    "alt": "The eastern lowland gorilla has the widest altitudinal range of any of the gorilla subspecies, being found in mountainous, transitional and lowland tropical forests."
   },
   {
     "name": "Hawksbill Sea Turtle",
     "Scientific": "Eretmochelys imbricata",
     "status": "Critically Endangered",
     "Range": "Atlantic, Indian and Pacific Oceans",
-    "photo": "assets/Hawksbill_Sea_Turtle.png"
+    "photo": "assets/Hawksbill_Sea_Turtle_250_xs.png",
+    "alt": "There have been population declines over the course of several decades, largely due to being hunted for their meat, eggs and shells."
   },
   {
     "name": "Javan Rhino",
     "Scientific": "Rhinoceros sondaicus",
     "status": "Critically Endangered",
     "Range": "Indonesia",
-    "photo": "assets/JavanRhino-PeterMaas-NaturalisLeiden.png"
+    "photo": "assets/JavanRhino-PeterMaas-NaturalisLeiden_250_xs.png",
+    "alt": "Javan rhinos are found in only one national park on the northern tip of the Indonesian island of Java"
   },
   {
-    "name": "Malayan Tiger",
+    "name": "Malaysian Tiger",
     "Scientific": "Panthera tigris jacksoni",
     "status": "Critically Endangered",
     "Range": "Malay Peninusla and Southern Thailand",
-    "photo": "assets/Malaysian_Tiger.png"
+    "photo": "assets/Malayan_Tiger_at_the_Tulsa_Zoo.png",
+    "alt": "Malayan tigers are poached due to the high demand for products made from tiger parts"
   },
   {
     "name": "Sumatran Orangutan",
     "Scientific": "Pongo pygmaeus",
     "status": "Critically Endangered",
     "Range": "Sumatra",
-    "photo": "assets/Pongo_pygmaeus.png"
+    "photo": "assets/Sumatran_Orangutan_250_xs.png",
+    "alt": "Only seven of thier populations have prospects of long-term viability, each with an estimated 250 or more individuals"
   },
   {
     "name": "Saola",
     "Scientific": "Pseudoryx nghetinhensis",
     "status": "Critically Endangered",
     "Range": "Vietnam and Laos",
-    "photo": "assets/Saola_skin.png"
+    "photo": "assets/Saola_skin_250_xs.png",
+    "alt": "The Saolo is a forest-dwelling bovine found only in the Annamite Range of Vietnam and Laos"
   },
   {
     "name": "South China Tiger",
     "Scientific": "Panthera tigris amoyensis",
     "status": "Critically Endangered",
     "Range": "Southern China",
-    "photo": "assets/Suedchinesischer_Tiger.png"
+    "photo": "assets/Suedchinesischer_Tiger_250_xs.png",
+    "alt":  "There were no more than 4,000 tigers in the wild when the South China Tiger, sadly, became the target of Mao Zedong's 'anti-pest' campaign, named The 'Great Leap Forward'."
   },
   {
     "name": "Sumatran Elephant",
     "Scientific": "Elephas maximus sumatranus",
     "status": "Critically Endangered",
     "Range": "Sumatra",
-    "photo": "assets/Sumatran_elephants.png"
+    "photo": "assets/Sumatran_elephants_250_xs.png",
+    "alt":  "Sumatra has experienced one of the highest rates of deforestation due to the pulp and paper industries and palm oil plantations"
   },
   {
     "name": "Sumatran Orangutan",
     "Scientific": "Pongo abelii",
     "status": "Critically Endangered",
     "Range": "Sumatra",
-    "photo": "assets/Sumatran_Orangutan.png"
+    "photo": "assets/Sumatran_Orangutan_250_xs.png",
+    "alt": "Habitat destruction is the biggest reason Sumatran orangutans are endangered and they are now only found in northern Sumatra."
   },
   {
     "name": "Sumatran Rhino",
     "Scientific": "Dicerorhinus sumatrensis",
     "status": "Critically Endangered",
     "Range": "Sumatra",
-    "photo": "assets/Sumatran_Rhino.png"
+    "photo": "assets/Sumatran_Rhino_250_xs.png",
+    "alt": "Indonesia hold the only viable population, thanks to Poaching. Malaysia's population is now extinct."
   },
   {
     "name": "Sumatran Tiger",
     "Scientific": "Panthera tigris sondaica",
     "status": "Critically Endangered",
     "Range": "Sumatra",
-    "photo": "assets/Sumatran_Tiger_006.png"
+    "photo": "assets/Sumatran_Tiger_250_xs.png",
+    "alt": "Logging, and hunting have reduced the Sumatran tiger population by 80%."
   },
   {
     "name": "Vaquita",
     "Scientific": "Phocoena sinus",
     "status": "Critically Endangered",
     "Range": "Northern part of Gulf of California",
-    "photo": "assets/Vaquitas.png"
+    "photo": "assets/Vaquita5_Olson_NOAA_250px_xs.png",
+    "alt": "Totoaba swim bladders are believed to cure a variety of illness and diseases in Chinese medicine. Unfortunately, unsustainable and illegal fishing practices are pushing the vaquita to extinction."
   },
   {
     "name": "Saiga antelope",
     "Scientific": "Saiga tatarica",
     "status": "Critically Endangered",
     "Range": "Russia, Kazakhstan",
-    "photo": "assets/Saiga_antelope_at_the_Stepnoi_Sanctuary.png"
+    "photo": "assets/Saiga_antelope_at_the_Stepnoi_Sanctuary_250_xs.png",
+    "alt": "Hunting and fences, along with warmer weather and increased humidity have led to mass mortalities over the last 25 years"
   },
   {
     "name": "Pangolin",
     "Scientific": "Sunda pangolin",
     "status": "Critically Endangered",
     "Range": "Southeast Asia",
-    "photo": "assets/Pangolin.png"
+    "photo": "assets/Pangolin_borneo_250_xs.png",
+    "alt": "Illegal international tra`de of their skins, scales and meat has caused the Pangolin to be endangered."
   }
 ]
