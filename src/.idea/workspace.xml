@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f2eefe5-b67b-4124-a5b0-bba3c2e2d231" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/27e33052ab456d10fe677f97c5618d4b47617d6e/my-theme.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/27e33052ab456d10fe677f97c5618d4b47617d6e/theme.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/27e33052ab456d10fe677f97c5618d4b47617d6e/x-theme.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/animal.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/animal.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Black_Rhino_250_xs.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Black_Rhino_250_xs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Cross-river-gorilla.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Cross-river-gorilla.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Eastern_Lowland_Gorilla_ZOO_Antwerp.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Eastern_Lowland_Gorilla_ZOO_Antwerp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Malayan_Tiger_at_the_Tulsa_Zoo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Malayan_Tiger_at_the_Tulsa_Zoo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Vaquitas.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Vaquitas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/animals.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/animals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsconfig.json" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1413" />
+    <option name="width" value="1833" />
+    <option name="height" value="1803" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../material-sidenav-responsive-starter-master" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f2eefe5-b67b-4124-a5b0-bba3c2e2d231" name="Default Changelist" comment="" />
+      <created>1585793066677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585793066677</updated>
+      <workItem from="1585793068833" duration="787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="787000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1292" height="702" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38871223" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
