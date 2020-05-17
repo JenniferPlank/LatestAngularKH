@@ -2,8 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-update-on',
-  templateUrl: '../update-on/update-on.component.html',
-  styleUrls: ['../update-on/update-on.component.scss']
+  templateUrl: '../updateOn/updateOn.component.html'
 })
 export class UpdateOnComponent implements OnInit {
 

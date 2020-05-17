@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { FilterState, Filter, Option, Animal } from './types';
 import * as _ from 'lodash';
 import { Observable } from 'rxjs';
-import { map, share } from 'rxjs/operators';
+import { tap, map, share } from 'rxjs/operators';
 
 @Injectable({
   providedIn: 'root'
@@ -24,18 +24,20 @@ export class AnimalService {
 
   private createFilters( animals: Animal[]) {
     return [{
-
-      displayName: 'Animal',
-      options: this.extractFilterOptions(animals)
+      category: 'spaceWalks',
+      displayName: 'Space walks',
+      options: this.extractFilterOptions('spaceWalks', animals)
     }, {
-
-      displayName: 'Specific Animal',
-      options: this.extractFilterOptions(animals)
+      category: 'undergraduateMajor',
+      displayName: 'Undergraduate major',
+      options: this.extractFilterOptions('undergraduateMajor', animals)
     }];
   }
 
-  private extractFilterOptions( animals: Animal[]): Option[] {
+  private extractFilterOptions(category: string, animals: Animal[]): Option[] {
+    this.filterState[category] = '';
     return _.chain(animals)
+      .groupBy(category)
       .keys()
       .sort()
       .value();

@@ -3,7 +3,7 @@ import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 
 @Component({
   selector: 'control-value-accessor',
-  templateUrl: 'controlValueAccessor.component.html'
+  templateUrl: 'control-value-accessor.component.html'
 })
 export class ControlValueAccessorComponent implements OnInit {
 

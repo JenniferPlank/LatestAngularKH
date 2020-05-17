@@ -39,12 +39,13 @@ import { ReactiveDynamicFormComponent } from './reactive-dynamic-form/reactive-d
 import { ReactiveFormComponent } from './reactive-form/reactive-form.component';
 import { StarterReactiveFormComponent } from './starter-reactive-form/starter-reactive-form.component';
 import { StarterTemplateFormComponent } from './starter-template-form/starter-template-form.component';
-import { UpdateOnComponent } from '../assets/updateOn.component';
+import { UpdateOnComponent } from './updateOn/updateOn.component';
 import { TemplateFormComponent } from './template-form/template-form.component';
+import { TestComponent } from './test/test.component';
 
 
 @NgModule({
-  declarations: [ AppComponent, AppRoutingModule.components, RequiredTextboxComponent, PhoneTextboxComponent, BasicFormComponent, ControlValueAccessorComponent, ReactiveDynamicFormComponent, ReactiveFormComponent, StarterReactiveFormComponent, StarterTemplateFormComponent, UpdateOnComponent, TemplateFormComponent ],
+  declarations: [ AppComponent, AppRoutingModule.components, RequiredTextboxComponent, PhoneTextboxComponent, BasicFormComponent, ControlValueAccessorComponent, ReactiveDynamicFormComponent, ReactiveFormComponent, StarterReactiveFormComponent, StarterTemplateFormComponent, UpdateOnComponent, TemplateFormComponent, TestComponent ],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
