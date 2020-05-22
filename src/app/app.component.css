@@ -169,16 +169,6 @@ mat-menu {
   border-bottom-width: 3px;
   border-radius: 2rem;
   text-decoration: none;
-  position: relative;
-}
-
-#sideNav {
-  background-color: lime !important;
-}
-
-mat-sidenav {
-  background-color: red !important;
-}
-
+  position: relative; }
 
 /*# sourceMappingURL=app.component.css.map */
