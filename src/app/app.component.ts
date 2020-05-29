@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { AnimalService } from './animal.service';
 import { Observable } from 'rxjs';
-import { FilterState, Filter } from './types';
+import { Animal, FilterState, Filter } from './types';
 
 @Component({
   selector: 'app-root',
@@ -9,7 +9,7 @@ import { FilterState, Filter } from './types';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  animals;
+  animals: Observable<Animal[]> ;
   filterState: FilterState;
   filters: Observable<Filter[]>;
 
@@ -20,3 +20,5 @@ export class AppComponent {
   }
 
 }
+
+

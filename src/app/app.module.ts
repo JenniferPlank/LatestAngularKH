@@ -17,18 +17,15 @@ import { MatRadioModule } from '@angular/material/radio';
 import { MatDatepickerModule } from '@angular/material/datepicker';
 import { MatSelectModule,  } from '@angular/material/select';
 import { ReactiveFormsModule } from '@angular/forms';
-
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { BasicFormComponent } from './basic-form/basic-form.component';
+import { QuestionnareComponent } from './questionnare/questionnare.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
 
-
+// @ts-ignore
 @NgModule({
-  declarations: [
-    AppComponent,
-    BasicFormComponent,
-  ],
-  imports: [
+
+  "imports": [
     BrowserModule,
     BrowserAnimationsModule,
     HttpClientModule,
@@ -47,14 +44,26 @@ import { BasicFormComponent } from './basic-form/basic-form.component';
     MatRadioModule,
     MatDatepickerModule,
     MatSelectModule,
-    ReactiveFormsModule,
+    ReactiveFormsModule
+],
 
+  declarations: [
+    AppComponent,
+    QuestionnareComponent,
+    DashboardComponent,
   ],
-  providers: [],
-  bootstrap: [AppComponent],
+
+providers: [],
+
+bootstrap: [AppComponent],
+
+
   // Don't forget to list AddAnimalComponent as an entry component!
   // This is needed because it is added to the DOM programmatically--
   // it doesn't appear in the template of any other component
-  entryComponents: [AppComponent]
+
+
 })
+
+
 export class AppModule { }
