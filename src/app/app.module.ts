@@ -19,7 +19,7 @@ import { MatSelectModule,  } from '@angular/material/select';
 import { ReactiveFormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { QuestionnareComponent } from './questionnare/questionnare.component';
+import { QuestionnaireComponent } from './questionnaire/questionnaire.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 
 // @ts-ignore
@@ -49,7 +49,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 
   declarations: [
     AppComponent,
-    QuestionnareComponent,
+    QuestionnaireComponent,
     DashboardComponent,
   ],
 
